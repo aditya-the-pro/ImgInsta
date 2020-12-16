@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="insta_dp.js"></script>
+</head>
+<body>
+    <h1>Insta DP Downloader</h1>
+    <label for="usernames">Enter single space seperated usernames: </label><br>
+    <textarea rows="12" cols="120" name="usernames"></textarea><br>
+    <button type="download" onclick="downloadBlobs(document.body.children.namedItem('usernames').value);">Download</button>
+</body>
+</html>
