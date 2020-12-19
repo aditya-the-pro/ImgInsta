@@ -24,6 +24,7 @@ async function downloadBlobs(userName) {
         }
         else {
             console.log("HTTP-Error: " + instaFetch.status)
+            alert('You entered wrong or @ with username');
         }
     }
 }
