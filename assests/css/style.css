@@ -41,7 +41,7 @@ label{
 }
 body{
     background-image: linear-gradient(rgb(47, 0, 255), rgb(21, 255, 0));   
-    overflow: hidden;
+    overflow: auto;
 }
 textarea{
     max-width: 95%; 
