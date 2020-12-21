@@ -5,4 +5,9 @@ ImgInsta is easiest and most convenient way to download HD profile photos from I
 
 **For Anti-Phishing Behaviour Of Browsers For Downloading Multiple Files At Once Allow Via Pop-Up**
 
+TO-DO:
+1.If a user enters null/blank value in textarea should i need to alert it also?
+2.improve the UI more sometimes font don't loaad on firefox android properly (so i'll be adding fallback font).
+3.Adding a msg when javascript is disabled
+4.may be i add reelinsta or vidinsta (download reels and videos also)
 Credit:-@abhishek-g0yal
