@@ -10,4 +10,5 @@ TO-DO:<br />
 2.improve the UI more sometimes font don't loaad on firefox android properly (so i'll be adding fallback font). <br />
 3.Adding a msg when javascript is disabled <br />
 4.may be i add reelinsta or vidinsta (download reels and videos also) <br />
+![ImgInsta](https://github.com/aditya-the-pro/ImgInsta/blob/main/assests/preview/insta.jpg) <br />
 Credit:-@abhishek-g0yal
