@@ -1,5 +1,5 @@
 # ImgInsta
-<p align="center"><img src="https://img.shields.io/github/issues/aditya-the-pro/ImgInsta"/><img src="https://img.shields.io/github/stars/aditya-the-pro/ImgInsta"/> 
+<p align="center"><img src="https://img.shields.io/github/issues/aditya-the-pro/ImgInsta"/>  <img src="https://img.shields.io/github/stars/aditya-the-pro/ImgInsta"/> 
 <img src="https://img.shields.io/github/license/aditya-the-pro/ImgInsta"/></p>
 ImgInsta is easiest and most convenient way to download HD profile photos from Instagram. You can download any Instagram DP in Full HD. Simply enter a space-separated list of usernames and click the download button.
 
