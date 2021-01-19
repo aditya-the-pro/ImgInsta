@@ -1,3 +1,5 @@
+// Credits - Abhishek Goyal
+// https://github.com/ABHISHEK-G0YAL/insta-dp-downloader
 async function downloadBlobs(userName) {
     function downloadBlob(blob, filename) {
         const url = URL.createObjectURL(blob);
