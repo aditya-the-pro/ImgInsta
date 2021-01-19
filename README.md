@@ -13,4 +13,4 @@ TO-DO:<br />
 3.Adding a msg when javascript is disabled (done) <br />
 4.may be i add reelinsta or vidinsta (download reels and videos also) (work in progress)<br />
 ![ImgInsta](https://github.com/aditya-the-pro/ImgInsta/blob/main/assests/preview/insta.jpg) <br />
-Credit:-@abhishek-g0yal
+Credit:-@[abhishek-g0yal](https://github.com/abhishek-g0yal)
