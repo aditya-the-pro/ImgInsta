@@ -15,7 +15,7 @@ async function downloadBlobs(userName) {
         console.log(instaURL)
         let instaFetch = await fetch(instaURL,{
         headers: {
-            Access-Control-Allow-Origin:"https://www.instagram.com/"
+           Access-Control-Allow-Origin: "*"
         }
         })
         if(instaFetch.ok) {
