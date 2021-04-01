@@ -14,7 +14,7 @@ async function downloadBlobs(userName) {
         let instaURL = 'https://www.instagram.com/'+userName[i]+'/?__a=1'
         console.log(instaURL)
         let instaFetch = await fetch(instaURL,{headers: {
-            Access-Control-Allow-Origin: *
+            Access-Control-Allow-Origin: "https://aditya-the-pro.github.io/"
   }})
         if(instaFetch.ok) {
             let instaJSON = await instaFetch.json()
